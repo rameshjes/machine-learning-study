@@ -12,3 +12,5 @@
 
 ## Unsupervised learning
 * **K-means**
+
+![MindMap](https://github.com/rameshjesswani/machine-learning-study/blob/master/MindMapML.jpg)

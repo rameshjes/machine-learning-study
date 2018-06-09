@@ -16,6 +16,9 @@
 ## Unsupervised learning
 * **K-means**
 
+## Machine Learning Terminologies
+[ML terminologies](https://github.com/rameshjesswani/machine-learning-study/wiki/Machine-Learning-Terminologies)
+
 ![MindMap](https://github.com/rameshjesswani/machine-learning-study/blob/master/MindMapML.jpg)
 
 ## Artificial Intelligence Hierarchy

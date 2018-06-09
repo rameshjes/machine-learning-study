@@ -17,3 +17,7 @@
 * **K-means**
 
 ![MindMap](https://github.com/rameshjesswani/machine-learning-study/blob/master/MindMapML.jpg)
+
+## Artificial Intelligence Hierarchy
+
+![AritificialIntelligenceHierarchy](https://github.com/rameshjesswani/machine-learning-study/blob/master/AI_categories.jpg)

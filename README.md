@@ -21,3 +21,5 @@
 ## Artificial Intelligence Hierarchy
 
 ![AritificialIntelligenceHierarchy](https://github.com/rameshjesswani/machine-learning-study/blob/master/AI_categories.jpg)
+
+source: Deep Learning book by Ian Goodfellow

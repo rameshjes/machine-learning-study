@@ -19,6 +19,11 @@
 ## Machine Learning Terminologies
 [ML terminologies](https://github.com/rameshjesswani/machine-learning-study/wiki/Machine-Learning-Terminologies)
 
+## Basic Concepts
+
+[Bias and Variance](https://github.com/rameshjesswani/machine-learning-study/wiki/Bias-and-Variance-Tradeoff)
+
+
 ![MindMap](https://github.com/rameshjesswani/machine-learning-study/blob/master/MindMapML.jpg)
 
 ## Artificial Intelligence Hierarchy

@@ -25,7 +25,7 @@
 
 ## Regularization 
 
-[Regularization](https://github.com/rameshjesswani/machine-learning-study/blob/master/images/Regularization_categories.png)
+![Regularization](https://github.com/rameshjesswani/machine-learning-study/blob/master/images/Regularization_categories.png)
 
 ## Machine Learning OverView
 ![MindMap](https://github.com/rameshjesswani/machine-learning-study/blob/master/MindMapML.jpg)

@@ -23,7 +23,11 @@
 
 [Bias and Variance](https://github.com/rameshjesswani/machine-learning-study/wiki/Bias-and-Variance-Tradeoff)
 
+## Regularization 
 
+![Regularization](https://github.com/rameshjesswani/machine-learning-study/blob/master/images/Regularization_categories.png)
+
+## Machine Learning OverView
 ![MindMap](https://github.com/rameshjesswani/machine-learning-study/blob/master/MindMapML.jpg)
 
 ## Artificial Intelligence Hierarchy

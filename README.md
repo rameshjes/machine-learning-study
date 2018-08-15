@@ -2,6 +2,7 @@
 
 [Implementation of Random Forest Classifier and Decision Tree Classifier using Iris Dataset](https://github.com/rameshjesswani/machine-learning-study/blob/master/randomForestAndDecisionTree/RandomForestAndDecisionTreeOnIrisDataSet.ipynb)
 
+[Univariate And Multiple Variable Linear Regression](https://github.com/rameshjesswani/machine-learning-study/blob/master/regression/UnivariateAndMultipleLinearRegression.ipynb)
 
 ## Supervised Learning
 * **Random Forest** 

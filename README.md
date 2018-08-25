@@ -18,7 +18,7 @@
 * **K-means**
 
 ## Machine Learning Glossary
-[ML Glossary](https://github.com/rameshjesswani/machine-learning-study/wiki/Machine-Learning-Terminologies)
+[ML Glossary](https://github.com/rameshjesswani/machine-learning-study/wiki/Machine-Learning-Glossary)
 
 ## Basic Concepts
 

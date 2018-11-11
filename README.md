@@ -41,6 +41,7 @@
 
 ![Algos in ML](https://github.com/rameshjesswani/machine-learning-study/blob/master/Algos_overview.jpg)
 
+![Algos Categories](https://github.com/rameshjesswani/machine-learning-study/blob/master/images/ML_Algos_categories.jpeg)
 ## ML Cheat Sheet
 
 ![Cheat Sheet](https://github.com/rameshjesswani/machine-learning-study/blob/master/ML_cheatsheet.png)

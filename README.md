@@ -37,6 +37,8 @@
 ## Machine Learning OverView
 ![MindMap](https://github.com/rameshjesswani/machine-learning-study/blob/master/MindMapML.jpg)
 
+![OverView with Applications](https://github.com/rameshjesswani/machine-learning-study/blob/master/machine_learning_overview.jpg)
+
 ## Artificial Intelligence Hierarchy
 
 ![AritificialIntelligenceHierarchy](https://github.com/rameshjesswani/machine-learning-study/blob/master/AI_categories.jpg)

@@ -39,6 +39,7 @@
 
 ![OverView with Applications](https://github.com/rameshjesswani/machine-learning-study/blob/master/machine_learning_overview.jpg)
 
+![Algos in ML](https://github.com/rameshjesswani/machine-learning-study/blob/master/Algos_overview.jpg)
 ## Artificial Intelligence Hierarchy
 
 ![AritificialIntelligenceHierarchy](https://github.com/rameshjesswani/machine-learning-study/blob/master/AI_categories.jpg)

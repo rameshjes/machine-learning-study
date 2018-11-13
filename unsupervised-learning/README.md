@@ -14,7 +14,21 @@
 * * * Recommendation Systems
 * * * Targetted Marketing
 
+* **Dimensionality Reduction** has following algorithms and applications:
+* * **Unsupervised Algorithms**
+* * * Principal Component Analysis (PCA)
+* * * Singular Value Decomposition (SVD)
+* * * Latent Dirichlet Allocation (LDA)
+* * **Supevised Algorithms**
+* * * Linear Discriminant Analysis
+* * **Applications**
+* * * Big Data Visualization
+* * * Feature Extraction
+* * * Structure Discovery
 
+### General Categories of Clustering
+
+![Clustering](https://github.com/rameshjesswani/machine-learning-study/blob/master/Clustering.jpg)
 
 
 

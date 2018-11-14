@@ -9,6 +9,8 @@
 * * * Hierarchical Clustering
 * * * Mixture of Gaussians
 * * * DBSCAN
+* * * Power Iteration Clustering
+* * * BorderFlow
 * * **Applications**
 * * * Customer Segmentation 
 * * * Recommendation Systems

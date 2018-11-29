@@ -8,7 +8,7 @@
 * * * K-Means, K-Mediods
 * * * Hierarchical Clustering
 * * * Mixture of Gaussians
-* * * DBSCAN
+* * * DBSCAN (Density-Based Spatial Clustering of Applications with Noise)
 * * * Power Iteration Clustering
 * * * BorderFlow
 * * **Applications**

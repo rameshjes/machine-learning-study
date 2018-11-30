@@ -10,6 +10,7 @@
 * * * Mixture of Gaussians
 * * * DBSCAN (Density-Based Spatial Clustering of Applications with Noise)
 * * * Power Iteration Clustering
+* * * Mean Shifting Clustering
 * * * BorderFlow
 * * **Applications**
 * * * Customer Segmentation 

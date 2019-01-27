@@ -9,6 +9,7 @@
 
 * [Bias-Variance-Tradeoff](https://towardsdatascience.com/understanding-the-bias-variance-tradeoff-165e6942b229)
 * [Loss Functions](http://christopher5106.github.io/deep/learning/2016/09/16/about-loss-functions-multinomial-logistic-logarithm-cross-entropy-square-errors-euclidian-absolute-frobenius-hinge.html)
+* [How to deal with imbalanced dataset](https://www.datascience.com/blog/imbalanced-data)
 
 ## Deep Learning 
 

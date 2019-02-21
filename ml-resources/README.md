@@ -10,7 +10,7 @@
 * [Bias-Variance-Tradeoff](https://towardsdatascience.com/understanding-the-bias-variance-tradeoff-165e6942b229)
 * [Loss Functions](http://christopher5106.github.io/deep/learning/2016/09/16/about-loss-functions-multinomial-logistic-logarithm-cross-entropy-square-errors-euclidian-absolute-frobenius-hinge.html)
 * [How to deal with imbalanced dataset](https://www.datascience.com/blog/imbalanced-data)
-
+* [Why and Where Feature Scaling is important?](https://www.geeksforgeeks.org/python-how-and-where-to-apply-feature-scaling/)
 ## Deep Learning 
 
 * [Basics of Convolutional Neural Network](https://adeshpande3.github.io/adeshpande3.github.io/A-Beginner's-Guide-To-Understanding-Convolutional-Neural-Networks/)

@@ -9,3 +9,7 @@
 * * Random Forest
 * * ADABoost
 
+## Problems
+
+* Classification 
+* Regression

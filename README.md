@@ -28,6 +28,9 @@
 
 [Shannon Entropy and Information Gain](https://www.youtube.com/watch?v=9r7FIXEAGvs&t=13s)
 
+[Variance, Covariance, EigenVector and EigenValue](http://www.visiondummy.com/2014/04/geometric-interpretation-covariance-matrix/)
+
+[Introduction to PCA (how PCA can be used to find orientation of objects)](https://docs.opencv.org/3.4/d1/dee/tutorial_introduction_to_pca.html)
 ## Regularization 
 
 ![Regularization](https://github.com/rameshjesswani/machine-learning-study/blob/master/images/Regularization_categories.png)

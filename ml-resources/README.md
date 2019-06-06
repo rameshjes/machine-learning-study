@@ -15,6 +15,13 @@
 
 * [Basics of Convolutional Neural Network](https://adeshpande3.github.io/adeshpande3.github.io/A-Beginner's-Guide-To-Understanding-Convolutional-Neural-Networks/)
 
+## NLP
+
+* [Family of Attention Mechanisms](https://lilianweng.github.io/lil-log/2018/06/24/attention-attention.html)
+* [Sequence2Sequence Models with Attention](https://jalammar.github.io/visualizing-neural-machine-translation-mechanics-of-seq2seq-models-with-attention/)
+* [An Introduction to Transformers and Sequence-to-Sequence Learning for Machine Learning](https://medium.com/inside-machine-learning/what-is-a-transformer-d07dd1fbec04) 
+* [Illustrated Transformer](http://jalammar.github.io/illustrated-transformer/)
+
 ## Computer Vision
 
 * [Modern history of Object Detection frameworks](https://medium.com/@nikasa1889/the-modern-history-of-object-recognition-infographic-aea18517c318)

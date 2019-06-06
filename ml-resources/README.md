@@ -18,3 +18,6 @@
 ## Computer Vision
 
 * [Modern history of Object Detection frameworks](https://medium.com/@nikasa1889/the-modern-history-of-object-recognition-infographic-aea18517c318)
+
+## TensorFlow
+* [Monitorred Training Session](https://www.math.purdue.edu/~nwinovic/slides/Getting_Started_with_TensorFlow_II.pdf)

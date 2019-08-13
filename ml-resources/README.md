@@ -17,6 +17,7 @@
 
 ## NLP
 
+* [Naive Bayes vs HMM](http://www.davidsbatista.net/blog/2017/11/11/HHM_and_Naive_Bayes/)
 * [Family of Attention Mechanisms](https://lilianweng.github.io/lil-log/2018/06/24/attention-attention.html)
 * [Sequence2Sequence Models with Attention](https://jalammar.github.io/visualizing-neural-machine-translation-mechanics-of-seq2seq-models-with-attention/)
 * [An Introduction to Transformers and Sequence-to-Sequence Learning for Machine Learning](https://medium.com/inside-machine-learning/what-is-a-transformer-d07dd1fbec04) 

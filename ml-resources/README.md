@@ -22,7 +22,7 @@
 * [Sequence2Sequence Models with Attention](https://jalammar.github.io/visualizing-neural-machine-translation-mechanics-of-seq2seq-models-with-attention/)
 * [An Introduction to Transformers and Sequence-to-Sequence Learning for Machine Learning](https://medium.com/inside-machine-learning/what-is-a-transformer-d07dd1fbec04) 
 * [Illustrated Transformer](http://jalammar.github.io/illustrated-transformer/)
-
+* [Tongue-in-cheek NLP Paper Summaries](https://bglearning.github.io/technology/nlp-summaries.html)
 ## Computer Vision
 
 * [Modern history of Object Detection frameworks](https://medium.com/@nikasa1889/the-modern-history-of-object-recognition-infographic-aea18517c318)
